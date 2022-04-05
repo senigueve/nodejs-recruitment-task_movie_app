@@ -42,7 +42,7 @@ To authorize user call the movie service using for example `curl`. We assume
 that the movie service is running of the default port `3003`.
 
 
-#### Create movie
+#### POSTE movie
 Request
 
 ```
@@ -67,7 +67,7 @@ Response
 }
 ```
 
-#### Fetch movie
+#### GET movie
 Request
 
 ```
