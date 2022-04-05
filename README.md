@@ -1,4 +1,4 @@
-# Movie service
+# Movie API 
 
 ## Technology stack
 
