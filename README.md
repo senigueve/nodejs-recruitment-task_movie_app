@@ -7,10 +7,15 @@ As the name suggests, this repository is built on top of Node.js and Express.js 
 #### Server side
 
 - Node.js - evented I/O for the backend
-- Express.js - Fast, unopinionated, minimalist web framework for Node.js
-- MongoDB - The application data platform for NoSQL databases
+
+- Express.js - Express.js is an automatically prebuilt Node.js framework that facilitates us to create server-side web applications faster and smarter. The main reason   for choosing Express is its simplicity, minimalism, flexibility, and scalability characteristics.
+
+- MongoDB -  the most popular NoSQL system, especially among startups. A document-oriented database with JSON-like documents in dynamic schemas.
+
 - Mongoose - mongoose
+
 - Jest - JavaScript testing framework
+
 - Super Test - Super test API testing framework
 
 
